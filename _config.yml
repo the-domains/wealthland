@@ -1,0 +1,28 @@
+name: WealthLand
+favicon: null
+layout_spectrum: 0.23093873052857816
+typography_spectrum: 0.7223572318907827
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.05339449783787131
+  lightness: 0.8294997059274465
+  saturation: 0.8688689665868878
+  rhythmicContrast: 0.8815909530967474
+purpose: []
