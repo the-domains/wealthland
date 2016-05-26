@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[WealthLand]]></title>
+        <description><![CDATA[WealthLand]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 26 May 2016 18:25:22 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Welcome to WealthLand: A Life-Simulation Game Workshop</p>]]></description>
+            <link>undefinedwelcome-to-wealthland-a-life-simulation-game-workshop/index.html</link>
+            <guid isPermaLink="false">a7f76109-ac87-4e9c-a16d-9118139619ad</guid>
+            <pubDate>Thu, 26 May 2016 18:25:22 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
